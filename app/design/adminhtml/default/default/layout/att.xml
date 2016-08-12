@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <att_adminhtml_att_index>
+        <reference name="content">
+            <block type="att/adminhtml_att" name="att" />
+        </reference>
+    </att_adminhtml_att_index>
+</layout>

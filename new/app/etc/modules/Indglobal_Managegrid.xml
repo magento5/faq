@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Indglobal_Managegrid>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Indglobal_Managegrid>
+    </modules>
+</config> 

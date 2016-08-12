@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <faqmanage_adminhtml_faqmanage_index>
+        <reference name="content">
+            <block type="faqmanage/adminhtml_faqmanage" name="faqmanage" />
+        </reference>
+    </faqmanage_adminhtml_faqmanage_index>
+</layout>

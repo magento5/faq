@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+    </default>
+    <att_index_index>
+        <reference name="content">
+            <block type="att/att" name="att" template="att/att.phtml" />
+        </reference>
+    </att_index_index>
+</layout> 

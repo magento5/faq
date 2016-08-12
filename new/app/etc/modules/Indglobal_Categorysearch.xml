@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Indglobal_Categorysearch>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Indglobal_Categorysearch>
+    </modules>
+</config> 
